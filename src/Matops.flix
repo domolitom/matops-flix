@@ -1,5 +1,3 @@
-use File.open
-
 def twosumcalc(l: List[a], target: a): List[a] with Eq[a], Add[a] = 
   match l {
     case Nil => Nil
