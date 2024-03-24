@@ -1,7 +1,8 @@
 [package]
 name        = "matops"
 description = "useful mathematical functions"
-version     = "0.2.0"
-flix        = "0.43.0"
+version     = "0.2.2"
+flix        = "0.44.1"
 authors     = ["AU"]
 repository  = "github:domolitom/matops-flix"
+safe        = "false"
